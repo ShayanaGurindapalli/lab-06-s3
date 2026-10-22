@@ -1,0 +1,6 @@
+## My S3 buckets
+
+Public Bucket: https://public-uyc4cf.s3.amazonaws.com/index.html 
+Secret Bucket: https://secret-uyc4cf.s3.amazonaws.com/pg42.txt?AWSAccessKeyId=ASIA264OPIY5MQSEZ2VW&Signature=WvFpM9EWi9kfEYWuBhgebSFl7Z8%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEKH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIHXOVO1JRf0lXVwsLHhwLWeKzyt3nWJfv6NTmKq%2BaE4lAiBDTczRaLZTE%2BbMcAFbo3TRBV8vc4ffryG%2B4Jy2RKhKJiqtAghqEAAaDDc1MzUyODY4NjEzOCIMMZWjkj3zEdWh8G4MKooCnDaVcxZgx3gtvInSTS%2Fux8vaseKabo8AtwvvYf1oq0DwsGBH9nLt2zW3%2FylqA8aPQvumRe5%2Fp4FwO5VRcsQQvgfJKbRSlcgG1tch1zs0HnPKfuiFWNq2eYorETU31MC1PgUCNGlL1daGup5BN6ASE4VyaNkYY0PpK3iFKhfeE%2Bl5g6EQX3Qd3pWMCHKI2LwbGFPOWwga%2BKskA3m6zsocTr1WgCs9vTP4cfwJ1lGPytFl4o3M1%2B1XOZKAQEY%2B1kMZOqQVlblgSFGoaVVB7C3kMMKen%2BkQj0Ljj9saw3ND6gZe41ST%2FISz1aZKjQ1WTY7%2Bt%2BKakIp21043zB8kBItKkwSQXJTJhzLoXRYwkMfl1gY6ngHE5zLiEATgfXB8IVBReYnJYhzs3u%2F1pw51eQpbi1xZhOtWiO32mCzoYC2uCc5%2B01NwDHB1K5j6HWrdlOIjo4ZJm0BlPpDSYrbEjEw6lvnAzJGLk42TnsdY8lMtJfqbhIa5xD1MOyPC0d3DUABs7EvzCK%2BMybHpNfomXfqbQiFSb0Ph52If7uJf4zkULrJLtaMv%2FsSPEVjicrScKjbeWQ%3D%3D&Expires=1793243062
+
+I'd choose a public bucket for information that's meant to be accessible or shared across teams and groups (books are a great example). I'd choose a presigned URL to share information with someone for a limited period of time. 
